@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,IO1,
+J2,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,IO2,
+J3,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,IO3,
+J4,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,IO4,
+J5,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,Extend1,
+J6,Jack_3.5mm_CUI_SJ1-3523N_Horizontal,1,Extend2,
+SW1,SW_PUSH_E-Switch_FS5700DP_DPDT,1,Switch1,
+SW2,SW_PUSH_E-Switch_FS5700DP_DPDT,1,Switch2,
+SW3,SW_PUSH_E-Switch_FS5700DP_DPDT,1,Switch3,
+SW4,SW_PUSH_E-Switch_FS5700DP_DPDT,1,Switch4,
